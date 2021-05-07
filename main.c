@@ -3,6 +3,6 @@
 
 int main() {
     printf("mau pr gan");
-    
+   
     return 0;
 }
