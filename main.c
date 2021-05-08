@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-    printf("Hello world");
+    printf("mau pr gan");
+   
     return 0;
 }
